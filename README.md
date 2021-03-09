@@ -1,4 +1,4 @@
-# PaintingByNumbersIFY
+# Painting By Numbers
 Python code for converting any image to a Painting By Numbers version of itself.
 
 ### Original Image:
